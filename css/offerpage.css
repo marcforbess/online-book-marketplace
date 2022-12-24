@@ -1,0 +1,97 @@
+.add-outline{
+	outline: 1px solid black;
+}
+
+.row-setting{
+	column-gap: 0.5rem!important;
+}
+
+.offer-col-setting{
+	background: #F1F1F1;
+}
+
+.tab-setting{
+	min-height: 50px!important;
+	border-radius: 25px!important;
+	font-size: 18px!important;
+
+}
+
+.add-bg-grey{
+	/*background-color: #F1F1F1;*/
+	/*background-color: blue; */
+	border-radius: 15px!important;
+	padding-top: 0.5rem!important;
+	padding-bottom: 0.5rem!important;
+}
+
+.btn-accept{
+	font-weight: bold!important;
+	color: white!important;
+	background: #A4E473!important;
+}
+
+
+.btn-reject{
+	font-weight: bold!important;
+	color: white!important;
+	background: #FF5757!important;
+}
+
+.btn-chat{
+	font-weight: bold!important;
+	color: white!important;
+	background: #87CEEB!important;
+}
+
+.user-pic-sizing{
+	width: 50px;
+	height: 50px;
+}
+
+.img-sizing{
+	max-width: 94px!important;
+	max-height: 130px!important;
+}
+
+.tab-body-setting{
+	background-color: #F1F1F1;
+	/*background-color: red; */
+	border-radius: 10px;
+	padding-bottom: 5rem!important;
+	/*min-height: 400px; */
+}
+
+.icon-ml{
+	margin-right: 1rem!important;
+}
+
+.add-padding-bot{
+	padding-bottom: 2rem!important;
+}
+
+.nav-pills .nav-link.active{
+
+	font-weight: bold!important;
+	color: white!important;
+	/*background-color: #A4E473!important;*/
+	background-color: #2D3D56!important;
+}
+
+.nav{
+	--bs-nav-link-color: grey!important;
+}
+
+.nav:hover{
+	--bs-link-hover-color: black!important;
+}
+
+
+@media(max-width: 595px){
+
+	.mobile-view-btn{
+		min-width: 100%!important;
+	}
+
+}
+

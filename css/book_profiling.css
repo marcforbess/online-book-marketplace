@@ -1,0 +1,160 @@
+
+body{
+	padding-bottom: 5rem;
+}
+
+.container-setting{
+
+	background: #F1F1F1;
+	min-height: 200px;
+	margin-top: 30px;
+	margin-bottom: 20px;
+	padding-bottom: 3rem;
+	border-radius: 10px;
+
+
+}
+
+.add-red-border{
+	border: 1px solid red!important;
+	min-height: 800px;
+}
+
+
+.user-img-setting{
+
+	max-width: 250px;
+	max-height: 320px;
+	margin-bottom: 50px;
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+input[type="file"]{
+
+	margin-top: 0px;
+	margin-bottom: 30px;
+}
+
+.h1-padding{
+	padding-top: 10px;
+	padding-left: 10px;
+	margin-bottom: 30px;
+
+}
+
+.label-margins{
+
+}
+
+.select-box{
+
+	margin-left: 24px; 
+	padding: 10px 10px;
+	max-width: 300px;
+	height: 40px;
+	border-radius: 15px;
+	border-width: 0;
+}
+
+.input-box{
+	margin-left: 18px;
+	padding: 10px 10px;
+	max-width: 300px;
+	height: 40px;
+	border-radius: 15px;
+	border-width: 0;
+}
+
+.selectlabel{
+	margin-left: 40px;
+}
+
+.subjectlabel{
+	margin-left: 28px;
+}
+
+.add-mt{
+	margin-top: 10px!important;
+}
+
+.rounded-corners{
+	border-radius: 15px!important;
+
+}
+
+.textarea-height{
+	min-height: 180px!important;
+}
+
+
+.confirm-book{
+	
+	
+	background: #3FB607;
+	color: #ffffff;
+	font-size: 15px;
+	font-weight: bold;
+	min-width: 150px;
+	min-height: 45px;
+	border-radius: 25px;
+	border-width: 0;
+	font-family: 'Roboto', sans-serif;
+	/*pointer-events: auto; */
+	cursor: pointer;
+	transition: all 0.1s ease;
+}
+
+.confirm-book:hover{
+	font-size: 18px;
+	/*background: #C8DF52;
+	color: black; */
+	background: white;
+	color:#3FB607 ;
+}
+
+.pe-cursor{
+	cursor: pointer;
+}
+
+
+/*Media Queries for smaller screens */
+
+@media(max-width: 992px){
+
+	.row{
+		flex-direction: column!important;
+	}
+
+	.select-box{
+		margin-bottom: 10px;
+	}
+
+	.input-box{
+		margin-left: 24px;
+	}
+
+	.selectlabel{
+		margin-left: 28px;
+	}
+}
+
+@media(max-width: 300px){
+
+	.select-box{
+		margin-bottom: 10px;
+		margin-left: 3px;
+	}
+
+	.input-box{
+		margin-left: 4px;
+	}
+
+	.selectlabel{
+		margin-left: 8px;
+	}
+
+	.subjectlabel{
+		margin-left: 8px;
+	}
+}
+

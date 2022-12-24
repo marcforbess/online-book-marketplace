@@ -1,0 +1,13 @@
+.listing-sizing{
+	max-width: 300px!important;
+}
+
+.textarea-height{
+	height: 180px!important;
+}
+
+.pic-sizing{
+	width: 60px!important;
+	height: 60px!important;
+	border-radius: 50%!important;
+}

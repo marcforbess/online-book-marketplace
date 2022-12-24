@@ -1,0 +1,44 @@
+.bg-grey{
+	background: #F1F1F1!important;
+}
+
+.container-setting{
+	min-height: 200px!important;
+}
+
+.border-rad{
+	border-radius: 10px!important;
+}
+
+.add-outline{
+	outline: 1px solid grey!important;
+}
+
+.pic-sizing{
+	width: 160px!important;
+	height: 160px!important;
+	border-radius: 50%!important;
+}
+
+.listing-sizing{
+	height: 160px!important;
+}
+
+.text-area-size{
+	height: 100vh!important;
+	max-height: 180px!important;
+}
+
+.btn-submit{
+	border-radius: 25px!important;
+	max-width: 800px!important;
+	color: white!important;
+	font-size: 21px!important;
+	font-weight: bold!important;
+	background-color: #527BB0!important;
+}
+
+.btn-submit:hover{
+	color: #527BB0!important;
+	background-color: white!important;
+}

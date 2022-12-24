@@ -1,0 +1,83 @@
+.add-outline{
+	outline: 1px solid black;
+}
+
+
+.gradient-blue{
+	background: linear-gradient(90deg, #020024 0%, #090979 35%, #00d4ff 100%);
+	
+}
+
+.gradient-orange{
+	background: linear-gradient(to right, #EC9F05, #FF4E00)!important;
+	
+}
+
+.gradient-green{
+	background: linear-gradient(to right, rgb(182, 244, 146), rgb(51, 139, 147))!important;
+}
+
+.card-mod{
+	border-radius: 15px!important;
+}
+
+
+.card:hover{
+	box-shadow: rgba(0, 0, 0, 0.16) 0px 10px 36px 0px, rgba(0, 0, 0, 0.06) 0px 0px 0px 1px!important;
+}
+
+
+.icon-setting{
+	font-size: 130px!important;
+	position: absolute;
+	left: 60%;
+	color: white;
+	opacity: 0.3;
+}
+
+.text-sizing{
+	font-size: 50px!important;
+}
+
+.text-right{
+	text-align: right!important;
+}
+
+.grey-bg{
+	background: #F1F1F1;
+	border-radius: 10px!important;
+}
+
+.border-rad{
+	border-radius: 10px!important;
+}
+
+.pr-0{
+	padding-right: 0!important;
+}
+
+.my-activities-container{
+	overflow-y: scroll!important;
+	height: 400px!important;
+}
+
+.admin-details-container{
+	
+}
+
+.admin-img-sizing{
+	height: 100px;
+	width: 100px;
+}
+
+.table-col{
+	background: blue;
+}
+
+@media(max-width:400px){
+
+	.icon-setting{
+		left:5%!important;
+	}
+
+}

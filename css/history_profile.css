@@ -1,0 +1,108 @@
+
+.col-setting{
+	background: #F1F1F1;
+	/*margin-bottom: 10px; */
+	margin-top: 10px!important;
+	max-height: 635px; 
+}
+
+.place-gap{
+	column-gap: 0.2rem;
+
+}
+
+.icon-mr{
+	margin-right: 8px!important;
+}
+
+.add-ml{
+	margin-left: 8px!important;
+}
+
+.pe-cursor{
+	cursor: pointer;
+}
+
+.img-sizing{
+	width: 160px;
+	height: 160px;
+	margin-top: 20px;
+	border-radius: 50%;
+	border: 5px solid white;
+}
+
+.heading-labels{
+	/* Padding: Top Right Bottom Left */
+	padding: 8px 0 0 5px;
+	margin-bottom: 30px;
+}
+
+
+.add-mt-15{
+	margin-top: 15px;
+}
+
+/* Selects all children within this class */
+.align-personal-details > *{
+
+	padding: 0 0 0 10px;
+}
+
+.align-name-heading{
+	padding: 20px 0 0 10px;
+}
+
+.heading-username{
+	font-family: 'Poppins', sans-serif;
+	font-weight: bold;
+	align-items: center;
+
+}
+
+.img-fluid-mod{
+	
+}
+
+.listing-container{
+
+	height: 180px;
+	background: white;
+	border-radius: 20px;
+	margin-bottom: 10px;
+	/*box-shadow: rgba(99, 99, 99, 0.2) 0px 2px 8px 0px; */
+	box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+
+.listing-container:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px!important;
+}
+
+.mylisting-img{
+
+	width: 120px;
+	max-height: 140px;
+	
+}
+
+.mylisting-details{
+
+}
+
+.hide-overflow{
+	overflow-y: auto;
+}
+
+.align-icon-center{
+	text-align: center;
+}
+
+.add-pb-1rem{
+	padding-bottom: 1rem;
+}
+
+
+.no-listing-icon{
+
+	font-size: 80px;
+}
+

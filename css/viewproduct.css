@@ -1,0 +1,187 @@
+.carousel-setting{
+	background: #F1F1F1!important;
+	border-radius: 25px!important;
+	padding-top: 2rem!important;
+	padding-bottom: 2rem!important;
+}
+
+.set-img-size{
+	/*max-width: 360px!important; */
+	max-height: 480px!important; 
+}
+
+.book-details{
+	border-radius: 25px!important;
+	background: #F1F1F1;
+	min-height: 400px;
+	padding-bottom: 2rem!important;
+}
+
+.add-outline{
+
+	outline: 1px solid black;
+}
+
+.heading-labels{
+
+	padding-top: 1.5rem;
+	padding-left: 1.5rem;
+}
+
+.seller-img{
+	/*max-height: 100px!important; */
+}
+
+.icon-mr{
+	margin-right: 1rem!important;
+}
+
+.ta-height{
+	height: 100px!important;
+}
+
+.set-seller-img-size{
+	width: 70px;
+	height: 70px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	border-radius: 50%;
+	outline: 2px solid white;
+}
+
+.col-setting{
+	padding-left: 2rem!important;
+	padding-bottom: 3rem!important;
+}
+
+.add-margin-left{
+	margin-left: 10px!important;
+}
+
+.set-desc-bg{
+	padding-left: 8px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-right: 8px;
+	background-color: white;
+	min-height: 100px;
+	width: 75%;
+	border-radius: 10px;
+}
+
+
+
+.btn-wishlist{
+	color: white!important;
+	background-color: #FFC0CB!important;
+	transition: all 0.3s ease!important;
+	max-height: 48px!important;
+}
+
+
+.btn-wishlist:hover{
+	background-color: #F1F1F1!important;
+	color: #FFC0CB!important;
+	font-size: 23px!important;
+}
+
+.btn-offer:hover{
+	background-color: #F1F1F1!important;
+	color: #699BF7!important;
+	font-size: 23px!important;
+}
+
+.wishlist-icon{
+	margin-right: 10px!important;
+	color: white;
+}
+
+.offer-icon{
+	margin-right: 10px!important;
+	color: white;
+}
+
+
+.btn-offer{
+	color: white!important;
+	background-color: #699BF7!important;
+	transition: all 0.3s ease!important;
+	max-height: 48px!important;
+}
+
+.btn-custom-offer{
+	color: white!important;
+	background-color: #FA8072!important;
+	transition: all 0.3s ease!important;
+	max-height: 48px!important;
+}
+
+.btn-send-custom{
+	outline: 1px solid #FA8072!important;
+	color: #FA8072!important;
+	font-weight: bold!important;
+	background-color: white!important;
+	transition: all 0.3s ease!important;
+	max-height: 48px!important;
+
+}
+
+.btn-send-custom:hover{
+	background-color: #FA8072!important;
+	color: white!important;
+}
+
+.btn-custom-offer:hover{
+	background-color: #F1F1F1!important;
+	color: #FA8072!important;
+	font-size: 23px!important;
+
+}
+
+.btn-make-offer{
+	background: red!important;
+	width: 100%;
+	max-width: 300px!important;
+}
+
+.btn-user-edit{
+	color: white!important;
+	background-color: #87CEEB!important;
+	transition: all 0.3s ease!important;
+	max-height: 48px!important;
+
+}
+
+.btn-user-edit:hover{
+	font-size: 21px!important;
+	color: black!important;
+}
+
+
+.btn-delete-listing{
+
+	color: white!important;
+	background-color: #F94C66!important;
+	transition: all 0.3s ease!important;
+	max-height: 48px!important;
+
+}
+
+.btn-delete-listing:hover{
+	font-size: 21px!important;
+	color: black!important;
+}
+
+@media(max-width: 427px){
+
+	.font-setting{
+		font-size: 3vw;
+	}
+}
+
+@media(max-width: 1199px){
+
+	.set-desc-bg{
+		width: 100%;
+	}
+}

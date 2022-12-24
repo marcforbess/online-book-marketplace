@@ -1,0 +1,102 @@
+.container-setting{
+	margin-top: 1rem!important;
+	padding-bottom: 10rem!important;
+	border-radius: 10px;
+}
+
+.horizontal-card-bg-search{
+	background: #F1F1F1!important;
+}
+
+
+.horizontal-card{
+	min-height: 232px!important;
+	border-radius: 20px;
+}
+
+.add-outline{
+	outline: 1px solid black;
+}
+
+.col-setting{
+	min-height: 232px!important;
+}
+
+.img-fluid-mod{
+	max-width: 152px!important;
+	max-height: 200px!important;
+}
+
+.pic-padding{
+	padding-top: 1rem!important;
+	padding-left: 1rem!important;
+	padding-bottom: 1rem!important;
+	padding-right: 1rem!important;
+}
+
+.title-padding{
+	padding-top: 1rem!important;
+}
+
+.wishlist_icon{
+	font-size: 30px!important;
+}
+
+.link-hover:hover{
+	box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px!important;
+}
+
+.book-price{
+	font-size: 20px;
+	color: #FA5353;
+}
+
+
+/*Addition to wishlist page */
+
+.w-container-bg{
+	background: #F1F1F1!important;
+}
+
+.horizontal-card-bg-wishlist{
+	background: white!important;
+}
+
+.clear-wl{
+	color: #04B0F6;
+}
+
+.icon-size{
+	font-size: 100px!important;
+}
+
+
+/*End of Wishlist Page Additions */
+
+@media(max-width: 1199px){
+
+	.details-mobile-padding{
+		padding-left: 3rem!important;
+	}
+
+	.mobile-title-padding{
+		padding-left: 1rem!important;
+		padding-right: 1rem!important;
+	}
+
+}
+
+@media(max-width: 992px){
+
+	.details-mobile-padding{
+		text-align: center!important;
+		padding-bottom: 1rem!important;
+		padding-left: 0!important;
+	}
+
+	.mobile-title-padding{
+		padding-left: 1rem!important;
+		padding-right: 1rem!important;
+	}
+
+}

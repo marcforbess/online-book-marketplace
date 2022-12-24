@@ -1,0 +1,58 @@
+#login-header{
+	font-size: 50px!important;
+	color: white;
+	font-weight: bold;
+	
+}
+
+.modal-content{
+	border-radius: 50px!important;
+}
+
+.modal-header{
+	background: #EAB676;
+	border-radius: 50px!important;
+}
+
+#show-password{
+	margin-left: 3px;
+	margin-top: 20px;
+}
+
+.form-control-mod{
+	margin-top: 15px;
+	border-radius: 10px!important;
+}
+
+#login-btn{
+	font-size: 20px!important;
+	font-weight: bold!important;
+	width: 300px;
+	border-radius: 50px!important;
+	background-color: #00A181;
+	transition: all 0.3s ease;
+}
+
+#login-btn:hover{
+	
+	background: white;
+	color: #00A181;
+}
+
+#signup-btn{
+	font-size: 20px!important;
+	font-weight: bold!important;
+	width: 300px;
+	border-radius: 50px!important;
+	background-color: #00A181;
+	transition: all 0.3s ease;
+}
+
+#signup-btn:hover{
+	background: white;
+	color: #00A181;
+}
+
+.bg-grey{
+	background-color: #DFDEDE!important;
+}
